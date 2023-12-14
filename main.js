@@ -1,5 +1,5 @@
-import {loadGLTF, loadAudio} from "libs/loader.js";
-//const THREE = window.MINDAR.IMAGE.THREE;
+import {loadGLTF, loadAudio} from "../libs/loader.js";
+const THREE = window.MINDAR.IMAGE.THREE;
 
 document.addEventListener('DOMContentLoaded', () => {
   const start = async() => {
