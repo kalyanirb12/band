@@ -1,4 +1,4 @@
-import {loadGLTF, loadAudio} from "../band/libs/loader";
+import {loadGLTF, loadAudio} from "../../band/libs/loader";
 const THREE = window.MINDAR.IMAGE.THREE;
 
 document.addEventListener('DOMContentLoaded', () => {
